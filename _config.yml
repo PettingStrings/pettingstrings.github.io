@@ -123,7 +123,7 @@ sass:
 
 exclude:
   [
-    "_assets",
+    "_assets/*",
     "Gemfile",
     "Gemfile.lock",
     "gulpfile.js",

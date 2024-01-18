@@ -34,10 +34,11 @@
    tags:
      - tag: Java
      - tag: JavFx
+     - tag: Simulation
 
  - name: CFM - Cruelty Free Meat
-   descr: ""
-   demo: none
+   descr: "todo"
+   demo: todo
    tags:
      - tag: Twinmotion
      - tag: Photoshop
