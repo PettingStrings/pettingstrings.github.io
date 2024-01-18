@@ -28,3 +28,12 @@
 
 - name: IntelliJ
   weight: 5
+
+- name: Photoshop
+  weight: 2
+
+- name: Illustrator
+  weight: 3
+
+- name: Blender
+  weight: 4
