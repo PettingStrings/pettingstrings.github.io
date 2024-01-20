@@ -87,7 +87,7 @@ function jekyll(done) {
         'jekyll',
         'build',
         '--incremental',
-        '--config=_config.yml,_config_dev.yml'
+        '--config=_config.yml'//,_config_dev.yml
       ],
       {
         stdio: 'inherit'
