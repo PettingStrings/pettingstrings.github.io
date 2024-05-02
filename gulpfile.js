@@ -81,13 +81,13 @@ function browserSyncReload(done) {
 function jekyll(done) {
   return cp
     .spawn(
-      'bundle.bat',
+      'bundle.bat',//'bundle',
       [
         'exec',
         'jekyll',
         'build',
         '--incremental',
-        '--config=_config.yml'//,_config_dev.yml
+        '--config=_config.yml,_config_dev.yml'
       ],
       {
         stdio: 'inherit'
@@ -135,4 +135,3 @@ var watch = gulp.parallel(watchData, watchMarkup, watchScripts, watchStyles);
  * compile the Jekyll site, launch BrowserSync & watch files.
  */
 gulp.task('default', gulp.parallel(serve, watch));
-
