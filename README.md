@@ -64,7 +64,7 @@ This is a personal website built with `Jekyll` and hosted on `Github Pages`, whi
 To get a local copy up and running follow these simple steps.
 
 `The commands and instructions I provide are for MacOS - please look up the specific commands for your OS on your own.`
-
+Tested on: ruby 3.1.2p20 Ubuntu WSL
 ### Prerequisites
 
 * [NodeJS](https://nodejs.org/en/)
