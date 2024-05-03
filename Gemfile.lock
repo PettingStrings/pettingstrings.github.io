@@ -25,6 +25,7 @@ GEM
     ethon (0.15.0)
       ffi (>= 1.15.0)
     eventmachine (1.2.7)
+<<<<<<< HEAD
     execjs (2.8.1)
     faraday (1.10.0)
       faraday-em_http (~> 1.0)
@@ -50,6 +51,15 @@ GEM
     faraday-rack (1.0.0)
     faraday-retry (1.0.3)
     ffi (1.15.5)
+=======
+    execjs (2.9.1)
+    faraday (2.9.0)
+      faraday-net_http (>= 2.0, < 3.2)
+    faraday-net_http (3.1.0)
+      net-http
+    ffi (1.16.3)
+    ffi (1.16.3-x64-mingw-ucrt)
+>>>>>>> f95683a (Updated file)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
     github-pages (226)
@@ -236,9 +246,17 @@ GEM
     nokogiri (1.13.6)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
+<<<<<<< HEAD
     octokit (4.22.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
+=======
+    nokogiri (1.16.0-x86_64-linux)
+      racc (~> 1.4)
+    octokit (4.25.1)
+      faraday (>= 1, < 3)
+      sawyer (~> 0.9)
+>>>>>>> f95683a (Updated file)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.7)
@@ -270,7 +288,12 @@ GEM
       thread_safe (~> 0.1)
     unf (0.1.4)
       unf_ext
+<<<<<<< HEAD
     unf_ext (0.0.8.1)
+=======
+    unf_ext (0.0.9.1)
+    unf_ext (0.0.9.1-x64-mingw-ucrt)
+>>>>>>> f95683a (Updated file)
     unicode-display_width (1.8.0)
     zeitwerk (2.5.4)
 
