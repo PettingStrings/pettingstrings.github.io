@@ -16,3 +16,6 @@
 
 - name: Java
   weight: 5
+
+- name: C#
+  weight: 5
