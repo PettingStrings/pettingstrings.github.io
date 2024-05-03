@@ -13,9 +13,9 @@
 #     - tag: AngularJS
 #     - tag: Node
 
- - name: Geo Spotter
+ - name: Geo Spotter (WIP)
    descr: "Geospotter è un'applicazione che permette che mostra i punti di interesse come ad esempio chiese, musei etc... dei comuni italiani."
-   github: https://github.com/SPAFAMAT/geo_spotter
+   github: https://github.com/alessandrofrontini/FrontiniLacchePaduraruIDS
    tags:
      - tag: Visual Paradigm
      - tag: Spring Boot
@@ -36,8 +36,8 @@
      - tag: JavFx
      - tag: Simulation
 
- - name: CFM - Cruelty Free Meat
-   descr: "todo"
+ - name: CFM - Cruelty Free Meat (Desktop Site)
+   descr: "CFM è un sito in cui viene spiegato il processo di creazione della carne coltivata. In fondo al sito si può giocare al tour virtuale."
    demo: https://readymag.com/u3104319915/4313079/
    tags:
      - tag: Twinmotion
@@ -51,3 +51,4 @@
    tags:
      - tag: Windows Forms
      - tag: C#
+     - tag: Access DB

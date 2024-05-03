@@ -7,6 +7,7 @@ var concat = require('gulp-concat');
 var rename = require('gulp-rename');
 var uglify = require('gulp-uglify');
 var cp = require('child_process');
+const { platform } = require('node:process');
 
 /**
  * Compile and minify sass
@@ -81,7 +82,7 @@ function browserSyncReload(done) {
 function jekyll(done) {
   return cp
     .spawn(
-      'bundle.bat',//'bundle',
+      getPlatformExecutable(),
       [
         'exec',
         'jekyll',
@@ -95,6 +96,21 @@ function jekyll(done) {
     )
     .on('close', done);
 }
+
+function getPlatformExecutable(){
+  switch(process.platform){
+    case 'aix':
+    case'darwin':
+    case'freebsd':
+    case'linux':
+    case'openbsd':
+    case'sunos':
+      return 'bundle'
+    case'win32':
+    return 'bundle.bat'
+  }
+}
+
 
 /**
  * Watch source files for changes & recompile
