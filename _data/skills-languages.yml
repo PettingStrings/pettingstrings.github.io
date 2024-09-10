@@ -5,9 +5,6 @@
 # - name: Language
 #   weight: 5
 
-- name: TypeScript
-  weight: 1
-
 - name: JavaScript
   weight: 2
 
@@ -15,7 +12,7 @@
   weight: 4
 
 - name: Java
-  weight: 5
+  weight: 4
 
 - name: C#
-  weight: 5
+  weight: 4

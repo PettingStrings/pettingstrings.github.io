@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Paduraru
+title: Paduraru 
 # description: This will be meta HTML tag content. This can be ignored.
 description: CV website
 # baseurl: The subpath of your site
@@ -31,12 +31,17 @@ linkedin_username: danut-razvan-paduraru
 # show_aboutme_card:
 # > setting this to true, will display the About Me section
 # > setting this to false, will omit the About Me section
-show_aboutme_card: false
+show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: "About me
-AAA"
+about_me_description: "
+👋 Hi, my name is Danut and I'm from Romania but I live in Italy<br>
+👨‍💻 I love coding and trying out new things<br>
+🎮 Apiring game developer<br>
+🌐 I always try to build coding projects that I will actually use<br>
+🤖 I enjoy automating repetitve and long tasks with Python
+"
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
@@ -78,11 +83,11 @@ os_projects_title: Open Source Projects
 # show_contact_card:
 # > setting this to true, will display the Contact section
 # > setting this to false, will omit the Contact section
-show_contact_card: false
+show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
-contact_title: Contact
+contact_title: Contact Me
 # contact_description: This will be displayed under the title.
-contact_description:  Bye Bye !
+contact_description: Feel free to contact me
 
 # GITHUB-METADATA
 # Set this to your forked repository

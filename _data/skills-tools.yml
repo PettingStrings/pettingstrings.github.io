@@ -26,9 +26,6 @@
 - name: Postman
   weight: 4
 
-- name: IntelliJ
-  weight: 5
-
 - name: Photoshop
   weight: 2
 
@@ -37,3 +34,6 @@
 
 - name: Blender
   weight: 4
+
+- name: Unity
+  weight: 1

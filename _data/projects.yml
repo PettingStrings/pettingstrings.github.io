@@ -13,7 +13,7 @@
 #     - tag: AngularJS
 #     - tag: Node
 
- - name: Geo Spotter (WIP)
+ - name: Geo Spotter
    descr: "Geospotter è un'applicazione che permette che mostra i punti di interesse come ad esempio chiese, musei etc... dei comuni italiani."
    github: https://github.com/alessandrofrontini/FrontiniLacchePaduraruIDS
    tags:

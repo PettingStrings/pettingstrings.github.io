@@ -9,13 +9,13 @@
   weight: 3
 
 - name: Spring Boot
-  weight: 5
+  weight: 4
 
 - name: Flask
   weight: 2
 
 - name: P5.JS
-  weight: 4
-
-- name: Windows Forms
   weight: 3
+
+- name: WinForms
+  weight: 4
