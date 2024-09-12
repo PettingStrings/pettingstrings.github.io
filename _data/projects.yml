@@ -23,7 +23,7 @@
      - tag: MySQL
 
  - name: Geo Spotter
-   descr: "Geospotter is a proof of concept for a social platform aimed to promote tourism by having a database of interesting places to visit around a location chosen by the user. It offers a backend and a simple GUI."
+   descr: "Geospotter is a proof of concept for a social platform aimed to promote tourism by having a database of interesting places to visit around a location chosen by the user. It offers a backend and a simple GUI"
    github: https://github.com/alessandrofrontini/FrontiniLacchePaduraruIDS
    tags:
      - tag: Visual Paradigm
@@ -31,7 +31,7 @@
      - tag: JavaFx
   
  - name: Music Manager
-   descr: "Music Manager holds my ever-growing catalog of songs that I listen to. It actually just saves title and source of a song and with i Python script i download everything."
+   descr: "Music Manager holds my ever-growing catalog of songs that I listen to. It actually just saves title and source of a song and with i Python script i download everything"
    demo: https://padurarudanutrazvan.altervista.org/music-manager/
    tags:
      - tag: Angular
@@ -39,7 +39,7 @@
      - tag: SQL
 
  - name: Padufy Downloader
-   descr: "Python script that downloads the songs listes on my website. It actually checks if a song is already downloaded and offers a nice CLI interface."
+   descr: "Python script that downloads the songs listes on my website. It actually checks if a song is already downloaded and offers a nice CLI interface"
    github: "https://github.com/PettingStrings/padufy_downloader"
    tags:
      - tag: Python
@@ -55,7 +55,7 @@
      - tag: YTDLP
 
  - name: CFM - Cruelty Free Meat (Desktop Site)
-   descr: "CFM was made for a school project and is a website which aims to teach people about how lab meat is made and its benefits."
+   descr: "CFM was made for a school project and is a website which aims to teach people about how lab meat is made and its benefits"
    demo: https://readymag.com/u3104319915/4313079/
    tags:
      - tag: Twinmotion
