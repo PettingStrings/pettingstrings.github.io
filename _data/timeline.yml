@@ -18,9 +18,9 @@
 #   timeline-side: right
 
 - title: UNICAM
-  title-url: https://www.unicam.it/
-  date: Sep 2021 - Present
-  subtitle: Programming (Student)
+  title-url: https://unicam.coursecatalogue.cineca.it/corsi/2024/10028
+  date: Sep 2021 - Now
+  subtitle: BCompSc
   tags:
       - tag: Java
       - tag: Spring Boot
@@ -28,12 +28,13 @@
       - tag: Illustrator
       - tag: C
       - tag: Arduino
+      - tag: SQL
   timeline-side: left
 
 - title: IIS "Marconi Pieralisi"
   title-url: https://www.iismarconipieralisi.edu.it/
   date: Sep 2016 - Jun 2021
-  subtitle: Programming (Student)
+  subtitle: ICT
   tags:
     - tag: C#
     - tag: C/C++

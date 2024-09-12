@@ -13,40 +13,65 @@
 #     - tag: AngularJS
 #     - tag: Node
 
+ - name: Personal Website
+   descr: "Here is where I host part of my projects"
+   demo: https://padurarudanutrazvan.altervista.org/
+   tags:
+     - tag: HTML
+     - tag: CSS
+     - tag: Angular
+     - tag: MySQL
+
  - name: Geo Spotter
-   descr: "Geospotter è un'applicazione che permette che mostra i punti di interesse come ad esempio chiese, musei etc... dei comuni italiani."
+   descr: "Geospotter is a proof of concept for a social platform aimed to promote tourism by having a database of interesting places to visit around a location chosen by the user. It offers a backend and a simple GUI."
    github: https://github.com/alessandrofrontini/FrontiniLacchePaduraruIDS
    tags:
      - tag: Visual Paradigm
      - tag: Spring Boot
+     - tag: JavaFx
   
  - name: Music Manager
-   descr: "Music Manager è una SPA che ho creato per gestire catalogare le canzoni che ascolto."
+   descr: "Music Manager holds my ever-growing catalog of songs that I listen to. It actually just saves title and source of a song and with i Python script i download everything."
    demo: https://padurarudanutrazvan.altervista.org/music-manager/
    tags:
      - tag: Angular
      - tag: PHP
      - tag: SQL
+
+ - name: Padufy Downloader
+   descr: "Python script that downloads the songs listes on my website. It actually checks if a song is already downloaded and offers a nice CLI interface."
+   github: "https://github.com/PettingStrings/padufy_downloader"
+   tags:
+     - tag: Python
+     - tag: "enlighten py"
   
  - name: SpaceBots
-   descr: "Spacebots è un'applicazione che simula dei robot, rappresentati da puntini, in uno spazio con degli oggetti da loro interagibili."
+   descr: "Spacebots is a simulation 2D game"
    github: https://github.com/PettingStrings/Spacebots
    tags:
      - tag: Java
      - tag: JavFx
-     - tag: Simulation
+     - tag: Pseudolanguage
+     - tag: YTDLP
 
  - name: CFM - Cruelty Free Meat (Desktop Site)
-   descr: "CFM è un sito in cui viene spiegato il processo di creazione della carne coltivata. In fondo al sito si può giocare al tour virtuale."
+   descr: "CFM was made for a school project and is a website which aims to teach people about how lab meat is made and its benefits."
    demo: https://readymag.com/u3104319915/4313079/
    tags:
      - tag: Twinmotion
      - tag: Photoshop
      - tag: Illlustrator
      - tag: Readymag
-  
+
+ - name: p5.js Gallery (WIP)
+   descr: "In this gallery I show my sketches made when I first started programming"
+   github: https://padurarudanutrazvan.altervista.org/p5jsgallery/
+   tags:
+     - tag: JS
+     - tag: p5.js
+
  - name: The Graveyard
-   descr: "The Graveyard è un giochetto che ho creato alle superiori."
+   descr: "The Graveyard is a tiny game made for my first school project"
    github: https://github.com/PettingStrings/TheGraveyard
    tags:
      - tag: Windows Forms
