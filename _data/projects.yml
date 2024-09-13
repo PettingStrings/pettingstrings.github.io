@@ -65,7 +65,7 @@
 
  - name: p5.js Gallery (WIP)
    descr: "In this gallery I show my sketches made when I first started programming"
-   github: https://padurarudanutrazvan.altervista.org/p5jsgallery/
+   demo: https://padurarudanutrazvan.altervista.org/p5jsgallery/
    tags:
      - tag: JS
      - tag: p5.js
