@@ -47,7 +47,7 @@
   
  - name: SpaceBots
    descr: "Spacebots is a simulation 2D game"
-   github: https://github.com/PettingStrings/Spacebots
+   github: https://github.com/PettingStrings/Spacebots?tab=readme-ov-file#pong
    tags:
      - tag: Java
      - tag: JavFx
