@@ -15,7 +15,10 @@
 
  - name: Personal Website
    descr: "Here is where I host part of my projects"
-   demo: https://padurarudanutrazvan.altervista.org/
+   links:
+     - link_data: 
+         name: Visit
+         link: https://padurarudanutrazvan.altervista.org/
    tags:
      - tag: HTML
      - tag: CSS
@@ -24,7 +27,10 @@
 
  - name: Geo Spotter
    descr: "Geospotter is a proof of concept for a social platform aimed to promote tourism by having a database of interesting places to visit around a location chosen by the user. It offers a backend and a simple GUI"
-   github: https://github.com/alessandrofrontini/FrontiniLacchePaduraruIDS
+   links:
+     - link_data: 
+         name: VideoDemo
+         link: https://youtu.be/0DPmCCy2ipg
    tags:
      - tag: Visual Paradigm
      - tag: Spring Boot
@@ -33,6 +39,13 @@
  - name: Music Manager
    descr: "Music Manager holds my ever-growing catalog of songs that I listen to. It actually just saves title and source of a song and with i Python script i download everything"
    demo: https://padurarudanutrazvan.altervista.org/music-manager/
+   links:
+     - link_data: 
+         name: VideoDemo
+         link: https://youtu.be/NHs6d20lebk
+     - link_data: 
+         name: Visit
+         link: https://padurarudanutrazvan.altervista.org/music-manager/
    tags:
      - tag: Angular
      - tag: PHP
@@ -41,6 +54,10 @@
  - name: Padufy Downloader
    descr: "Python script that downloads the songs listes on my website. It actually checks if a song is already downloaded and offers a nice CLI interface"
    github: "https://github.com/PettingStrings/padufy_downloader"
+   links:
+     - link_data: 
+         name: GitHub
+         link: "https://github.com/PettingStrings/padufy_downloader" 
    tags:
      - tag: Python
      - tag: "enlighten py"
@@ -48,15 +65,31 @@
  - name: SpaceBots
    descr: "Spacebots is a simulation 2D game"
    github: https://github.com/PettingStrings/Spacebots?tab=readme-ov-file#pong
+   links:
+     - link_data: 
+         name: GitHub+Examples
+         link: "https://github.com/PettingStrings/Spacebots?tab=readme-ov-file#pong" 
    tags:
      - tag: Java
      - tag: JavFx
      - tag: Pseudolanguage
-     - tag: YTDLP
+
+ - name: "20 Games Challenge (1.5/20)"
+   descr: "Currently doing the 20 games challenge in Unity"
+   links:
+     - link_data: 
+         name: VideoGameplay
+         link: https://youtu.be/_kjz0v1wyZE
+   tags:
+     - tag: Unity
+     - tag: GameDev
 
  - name: CFM - Cruelty Free Meat (Desktop Site)
    descr: "CFM was made for a school project and is a website which aims to teach people about how lab meat is made and its benefits"
-   demo: https://readymag.com/u3104319915/4313079/
+   links:
+     - link_data: 
+         name: Visit
+         link: https://readymag.com/u3104319915/4313079/ 
    tags:
      - tag: Twinmotion
      - tag: Photoshop
@@ -65,14 +98,23 @@
 
  - name: p5.js Gallery (WIP)
    descr: "In this gallery I show my sketches made when I first started programming"
-   demo: https://padurarudanutrazvan.altervista.org/p5jsgallery/
+   links:
+     - link_data: 
+         name: Visit
+         link: https://padurarudanutrazvan.altervista.org/p5jsgallery/
    tags:
      - tag: JS
      - tag: p5.js
 
  - name: The Graveyard
    descr: "The Graveyard is a tiny game made for my first school project"
-   github: https://github.com/PettingStrings/TheGraveyard
+   links:
+     - link_data: 
+         name: VideoGameplay
+         link: https://youtu.be/ob6JeKcoH6s
+     - link_data: 
+         name: GitHub
+         link: https://github.com/PettingStrings/TheGraveyard
    tags:
      - tag: Windows Forms
      - tag: C#

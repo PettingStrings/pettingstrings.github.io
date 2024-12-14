@@ -8,7 +8,7 @@
 - name: Angular
   weight: 3
 
-- name: "Spring Boot"
+- name: Spring Boot
   weight: 4
 
 - name: Flask

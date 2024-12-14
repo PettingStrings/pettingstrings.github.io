@@ -8,18 +8,6 @@
 - name: Git
   weight: 4
 
-- name: Bash
-  weight: 3
-
-- name: Chrome DevTools
-  weight: 2
-
-- name: npm
-  weight: 3
-
-- name: gulp
-  weight: 2
-
 - name: VS Code
   weight: 5
 
@@ -32,8 +20,8 @@
 - name: Illustrator
   weight: 3
 
-- name: Blender
-  weight: 4
-
 - name: Unity
   weight: 1
+
+- name: Kdenlive
+  weight: 1 
